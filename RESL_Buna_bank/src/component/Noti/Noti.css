@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.notii{
+    background-color: rgb(71, 17, 17);
+    height: 600px;
+}
+.pend{
+    background-color: antiquewhite;
+    position: relative;
+    left: 3rem;
+}
+.name{
+    color: rgb(71, 17, 17);
+
+}
+.process{
+    color: rgb(71, 17, 17);
+ 
+}
+.btnhomee{
+    padding: 10px 15px;
+    border-radius: 10px;
+    background-color: wheat;
+    border: none;
+    color: rgb(71, 17, 17);
+    /* position: relative;
+    top: -145px; */
+
+    
+}
+.btnPending{
+    margin-left: 5rem;
+    font-weight: bold;
+}
+.btnPend{
+    background-color:antiquewhite ;
+    border-radius: 10px;
+ 
+    font-weight: bold;
+}

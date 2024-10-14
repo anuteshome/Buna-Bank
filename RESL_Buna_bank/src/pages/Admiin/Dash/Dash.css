@@ -1,0 +1,16 @@
+.dashboard {
+    display: flex;
+    height: 100vh; /* Full height of the viewport */
+  }
+  
+  .sidebar {
+    width: 250px; /* Width of the sidebar */
+    background-color: #f4f4f4; /* Background color for sidebar */
+  }
+  
+  .charts-container {
+    flex: 1; /* Takes the remaining space */
+    padding: 20px; /* Padding around charts */
+    background-color: #fff; /* Background color for charts */
+  }
+  

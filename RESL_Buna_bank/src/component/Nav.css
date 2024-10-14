@@ -1,0 +1,56 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    cursor: pointer;
+    
+}
+
+.annnu{
+display: flex;
+justify-content: space-between;
+padding-top: 1.5em;
+padding-right: 5em;
+background-color: rgb(77, 17, 17);
+
+}
+
+.logo{
+    margin-left: 3rem;
+    color: rgb(255, 255, 255);
+    margin-top: -0.5rem;
+}
+.link{
+    padding-right: 2rem;
+    text-decoration: none;
+    color: white;
+   
+}
+.profile{
+    width: 40px;
+    height: 40px;
+    /* background-color:antiquewhite; */
+    border-radius: 50%;
+    padding-top: -1rem;
+    padding-right: -1rem;
+    
+}
+.btnLogin{
+    position: relative; /* Add this line */
+    top: -10px; /* Adjust this value as needed */
+    padding: 10px 30px;
+    margin-left: 4rem;
+    background-color: wheat;
+    color: rgb(77, 17, 17);
+    border-radius: 7px;
+    border:none;
+    font-size: 15px;
+   
+}
+.noti{
+    color: antiquewhite;
+    position: relative;
+    top: -2px;
+    left: 120px;
+}

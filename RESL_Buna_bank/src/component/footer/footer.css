@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.foot{
+    height: 250px;
+    background-color: antiquewhite;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.log{
+    margin-left: 3rem;
+    color: rgb(71, 17, 17);
+    padding-top: 6rem;
+    font-size: 5rem;
+}
+.lin{
+    color: rgb(71, 17, 17);
+    text-decoration: none;
+    font-size: 1.2rem;
+    padding-left: 2rem;
+    
+}
+.route{
+    padding-top: 8rem;
+}

@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.r{
+    background-color: antiquewhite;
+    height: 600px;
+}
+.re{
+    color:rgb(71,17,17);
+    font-size: 3rem;
+    text-align: center;
+    padding-top: 2rem;
+}
+.l{
+    padding-bottom: 2.5rem;
+    font-size: 1.2rem;
+    padding-left: 3rem;
+
+
+}
+.list{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-left: 2rem;
+}

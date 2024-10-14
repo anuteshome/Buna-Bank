@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.account{
+    background-color:antiquewhite;
+    height: 600px;
+}
+.cardAccount{
+    width: 400px;
+    height: 50px;
+    background-color: wheat;
+    margin-left: 22rem;
+    position: relative;
+    top: 2rem;
+    border-radius: 15px;
+}
+
+.CheckedIcon{
+ position: relative;
+ top: 4px;
+ left: 3px;
+color: rgb(71, 17, 17);}
+
+.dear{
+    position: relative;
+    top: 8px;
+    left: 80px;
+    font-weight: bold;
+}
+.btn32{
+    padding: 10px 20px;
+    background-color: rgb(71, 17, 17);
+    color: antiquewhite;
+    border: none;
+    border-radius: 10px;
+    margin-left: 3rem;
+    margin-top: -3rem;
+}

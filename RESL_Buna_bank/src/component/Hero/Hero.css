@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+.hero-main{
+    /* background-color: rgb(44, 10, 10); */
+    height:530px;
+    /* background-color: rgb(221, 215, 202); */
+    background-color: antiquewhite;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+}
+.gust{
+    padding-top: 8rem;
+    padding-left: 3rem;
+    font-size: 3rem;
+}
+.fp{
+padding-top: 1.5rem;
+padding-left: 3rem;
+text-align: left;
+}
+.btn-loan{
+    padding: 15px 50px;
+    margin-top: 3rem;
+    margin-left: 9rem;
+    background-color: rgb(77, 17, 17);
+    color: wheat;
+    border-radius: 7px;
+    border:none;
+    font-size: 15px;
+
+}
+.btn-loan:hover{
+    background: transparent;
+    color:rgb(77, 17, 17) ;
+    border: 2px solid rgb(77, 17, 17);
+    font-size: 15px;
+}
+.img1{
+    margin-left: 5rem;
+    margin-top: 1rem;
+}

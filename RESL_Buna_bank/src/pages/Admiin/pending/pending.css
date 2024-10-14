@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.pend{
+    width: 1000px;
+    height: 80px;
+    background-color: #471111;
+    border-radius: 10px;
+    margin-bottom: 3rem;
+}
+.pend{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.btnPending{
+    width: 100px;
+    position: relative;
+   left: 15rem;
+   background-color: antiquewhite;
+   border: none;
+   border-radius: 10px;
+   font-size: 1.2;
+   font-weight: bold;
+}
+.name{
+    color: antiquewhite;
+    font-size: 1.2rem;
+    margin-top: 2rem;
+    margin-left: 3rem;
+}
+.process{
+    color: antiquewhite;
+    font-size: 1.2rem;
+    margin-top: 2rem;
+    margin-left: 6rem;
+}
